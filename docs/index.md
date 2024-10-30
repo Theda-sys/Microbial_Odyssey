@@ -42,8 +42,8 @@
 </head>
 <body>
     <p>
-        <a href="mailto:microbialodyssey@gmail.com">
-            microbialodyssey@gmail.com
+        <a href="mailto:microbalodyssey@gmail.com">
+            microbalodyssey@gmail.com
         </a>
     </p>
 </body>
