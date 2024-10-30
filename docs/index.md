@@ -5,7 +5,7 @@ title: Microbial Odyssey
 
 <style>
     body {
-        background-image: url('website cover.png');
+        background-image: url('websitecover.png');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
