@@ -11,12 +11,17 @@ title: Microbial Odyssey
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
-    h1, p {
+    p {
         color: white; /* Adjust color for visibility */
+        font-size: 1.5em; /* Adjust font size if needed */
+        text-align: center; /* Center-align the text */
+        margin-top: 40vh; /* Position text vertically */
     }
 </style>
 
-# Contact Us
-If you have any questions, feel free to reach out:
+<p>
+    <a href="mailto:microbalodyssey@gmail.com" style="color: white; text-decoration: none;">
+        microbalodyssey@gmail.com
+    </a>
+</p>
 
-[microbalodyssey@gmail.com](mailto:microbalodyssey@gmail.com)
