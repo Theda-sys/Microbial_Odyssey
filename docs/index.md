@@ -23,8 +23,8 @@
 </style>
 
 <p>
-    <a href="mailto:microbalodyssey@gmail.com">
-        microbalodyssey@gmail.com
+    <a href="mailto:microbialodyssey@gmail.com">
+        microbialodyssey@gmail.com
     </a>
 </p>
 
